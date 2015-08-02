@@ -1,0 +1,24 @@
+{
+  "name": "react-sandbox",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.x",
+    "react": "~0.13.x",
+    "react-router": "~0.13.x",
+    "jsx-loader": "^0.13.2",
+    "firebase": "^2.2.9",
+    "lodash": "^3.10.0",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "jsx-loader": "latest",
+    "react-tools": "latest",
+    "webpack": "latest",
+    "webpack-dev-server": "latest"
+  }
+}
